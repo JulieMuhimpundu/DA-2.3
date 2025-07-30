@@ -1,3 +1,20 @@
+
+/*Dice: [ 5 ] [ 2 ]
+1. Re-roll
+2. Stay
+Choice: 1
+Dice: [ 5 ] [ 6 ]
+1. Re-roll
+2. Stay
+Choice: 4
+Dice: [ 4 ] [ 6 ]
+1. Re-roll
+2. Stay
+Choice: 2
+Final Dice:
+Dice: [ 4 ] [ 6 ]
+*/
+
 #include <iostream>
 #include "Die.h"
 #include "DiceHand.h"
